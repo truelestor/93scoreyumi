@@ -1,0 +1,18 @@
+{
+  "name": "93scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "credit score check free ◄ Get Your FREE Credit Score credit score check free, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "credit score check free",
+    "credit score factors",
+    "buying house with low credit score",
+    "how credit score works",
+    "credit score 20 year old"
+  ],
+  "repository": "https://github.com/truelestor/93scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
